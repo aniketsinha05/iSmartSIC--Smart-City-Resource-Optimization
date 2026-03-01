@@ -1,0 +1,908 @@
+{
+    "status": "success",
+    "city": "Pune",
+    "generated_at": "2026-03-01T13:24:28.755589",
+    "total_records": 30,
+    "results": [
+        {
+            "status": "success",
+            "city": "Pune",
+            "timestamp": "2026-01-01T00:00:00",
+            "prediction": {
+                "zone": "Kothrud-Bavdhan",
+                "ward": "Bavdhan",
+                "predicted_waste_tpd": 21.78
+            },
+            "allocation": {
+                "truck_capacity_tpd": 5,
+                "trucks_required": 5,
+                "optimized_allocation_tpd": 25,
+                "static_allocation_tpd": 15
+            },
+            "efficiency_metrics": {
+                "static_wastage_tpd": -6.78,
+                "optimized_wastage_tpd": 3.22,
+                "efficiency_improvement_percent": 0.0
+            },
+            "routing": {
+                "destination_ward": "Wadgaon-Sheri-Kalyani nagar",
+                "optimized_route": [
+                    "Bavdhan",
+                    "Central Hub",
+                    "Wadgaon-Sheri-Kalyani nagar"
+                ],
+                "total_distance_km": 7
+            }
+        },
+        {
+            "status": "success",
+            "city": "Pune",
+            "timestamp": "2026-01-03T00:00:00",
+            "prediction": {
+                "zone": "Kothrud-Bavdhan",
+                "ward": "Bavdhan",
+                "predicted_waste_tpd": 21.83
+            },
+            "allocation": {
+                "truck_capacity_tpd": 5,
+                "trucks_required": 5,
+                "optimized_allocation_tpd": 25,
+                "static_allocation_tpd": 15
+            },
+            "efficiency_metrics": {
+                "static_wastage_tpd": -6.83,
+                "optimized_wastage_tpd": 3.17,
+                "efficiency_improvement_percent": 0.0
+            },
+            "routing": {
+                "destination_ward": "Wadgaon-Sheri-Kalyani nagar",
+                "optimized_route": [
+                    "Bavdhan",
+                    "Central Hub",
+                    "Wadgaon-Sheri-Kalyani nagar"
+                ],
+                "total_distance_km": 7
+            }
+        },
+        {
+            "status": "success",
+            "city": "Pune",
+            "timestamp": "2026-01-01T00:00:00",
+            "prediction": {
+                "zone": "Shivajinagar",
+                "ward": "Deccan",
+                "predicted_waste_tpd": 24.32
+            },
+            "allocation": {
+                "truck_capacity_tpd": 5,
+                "trucks_required": 5,
+                "optimized_allocation_tpd": 25,
+                "static_allocation_tpd": 15
+            },
+            "efficiency_metrics": {
+                "static_wastage_tpd": -9.32,
+                "optimized_wastage_tpd": 0.68,
+                "efficiency_improvement_percent": 0.0
+            },
+            "routing": {
+                "destination_ward": "Wadgaon-Sheri-Kalyani nagar",
+                "optimized_route": [
+                    "Deccan",
+                    "Central Hub",
+                    "Wadgaon-Sheri-Kalyani nagar"
+                ],
+                "total_distance_km": 7
+            }
+        },
+        {
+            "status": "success",
+            "city": "Pune",
+            "timestamp": "2026-01-03T00:00:00",
+            "prediction": {
+                "zone": "Shivajinagar",
+                "ward": "Deccan",
+                "predicted_waste_tpd": 24.79
+            },
+            "allocation": {
+                "truck_capacity_tpd": 5,
+                "trucks_required": 5,
+                "optimized_allocation_tpd": 25,
+                "static_allocation_tpd": 15
+            },
+            "efficiency_metrics": {
+                "static_wastage_tpd": -9.79,
+                "optimized_wastage_tpd": 0.21,
+                "efficiency_improvement_percent": 0.0
+            },
+            "routing": {
+                "destination_ward": "Wadgaon-Sheri-Kalyani nagar",
+                "optimized_route": [
+                    "Deccan",
+                    "Central Hub",
+                    "Wadgaon-Sheri-Kalyani nagar"
+                ],
+                "total_distance_km": 7
+            }
+        },
+        {
+            "status": "success",
+            "city": "Pune",
+            "timestamp": "2026-01-01T00:00:00",
+            "prediction": {
+                "zone": "Hadapsar-Mundhwa",
+                "ward": "Hadapsar",
+                "predicted_waste_tpd": 31.54
+            },
+            "allocation": {
+                "truck_capacity_tpd": 5,
+                "trucks_required": 7,
+                "optimized_allocation_tpd": 35,
+                "static_allocation_tpd": 15
+            },
+            "efficiency_metrics": {
+                "static_wastage_tpd": -16.54,
+                "optimized_wastage_tpd": 3.46,
+                "efficiency_improvement_percent": 0.0
+            },
+            "routing": {
+                "destination_ward": "Wadgaon-Sheri-Kalyani nagar",
+                "optimized_route": [
+                    "Hadapsar",
+                    "Central Hub",
+                    "Wadgaon-Sheri-Kalyani nagar"
+                ],
+                "total_distance_km": 7
+            }
+        },
+        {
+            "status": "success",
+            "city": "Pune",
+            "timestamp": "2026-01-03T00:00:00",
+            "prediction": {
+                "zone": "Hadapsar-Mundhwa",
+                "ward": "Hadapsar",
+                "predicted_waste_tpd": 30.96
+            },
+            "allocation": {
+                "truck_capacity_tpd": 5,
+                "trucks_required": 7,
+                "optimized_allocation_tpd": 35,
+                "static_allocation_tpd": 15
+            },
+            "efficiency_metrics": {
+                "static_wastage_tpd": -15.96,
+                "optimized_wastage_tpd": 4.04,
+                "efficiency_improvement_percent": 0.0
+            },
+            "routing": {
+                "destination_ward": "Wadgaon-Sheri-Kalyani nagar",
+                "optimized_route": [
+                    "Hadapsar",
+                    "Central Hub",
+                    "Wadgaon-Sheri-Kalyani nagar"
+                ],
+                "total_distance_km": 7
+            }
+        },
+        {
+            "status": "success",
+            "city": "Pune",
+            "timestamp": "2026-01-01T00:00:00",
+            "prediction": {
+                "zone": "Hinjewadi",
+                "ward": "Hinjewadi Phase 1",
+                "predicted_waste_tpd": 42.31
+            },
+            "allocation": {
+                "truck_capacity_tpd": 5,
+                "trucks_required": 9,
+                "optimized_allocation_tpd": 45,
+                "static_allocation_tpd": 15
+            },
+            "efficiency_metrics": {
+                "static_wastage_tpd": -27.31,
+                "optimized_wastage_tpd": 2.69,
+                "efficiency_improvement_percent": 0.0
+            },
+            "routing": {
+                "destination_ward": "Wadgaon-Sheri-Kalyani nagar",
+                "optimized_route": [
+                    "Hinjewadi Phase 1",
+                    "Central Hub",
+                    "Wadgaon-Sheri-Kalyani nagar"
+                ],
+                "total_distance_km": 7
+            }
+        },
+        {
+            "status": "success",
+            "city": "Pune",
+            "timestamp": "2026-01-03T00:00:00",
+            "prediction": {
+                "zone": "Hinjewadi",
+                "ward": "Hinjewadi Phase 1",
+                "predicted_waste_tpd": 42.86
+            },
+            "allocation": {
+                "truck_capacity_tpd": 5,
+                "trucks_required": 9,
+                "optimized_allocation_tpd": 45,
+                "static_allocation_tpd": 15
+            },
+            "efficiency_metrics": {
+                "static_wastage_tpd": -27.86,
+                "optimized_wastage_tpd": 2.14,
+                "efficiency_improvement_percent": 0.0
+            },
+            "routing": {
+                "destination_ward": "Wadgaon-Sheri-Kalyani nagar",
+                "optimized_route": [
+                    "Hinjewadi Phase 1",
+                    "Central Hub",
+                    "Wadgaon-Sheri-Kalyani nagar"
+                ],
+                "total_distance_km": 7
+            }
+        },
+        {
+            "status": "success",
+            "city": "Pune",
+            "timestamp": "2026-01-01T00:00:00",
+            "prediction": {
+                "zone": "Hinjewadi",
+                "ward": "Hinjewadi Phase 2",
+                "predicted_waste_tpd": 39.32
+            },
+            "allocation": {
+                "truck_capacity_tpd": 5,
+                "trucks_required": 8,
+                "optimized_allocation_tpd": 40,
+                "static_allocation_tpd": 15
+            },
+            "efficiency_metrics": {
+                "static_wastage_tpd": -24.32,
+                "optimized_wastage_tpd": 0.68,
+                "efficiency_improvement_percent": 0.0
+            },
+            "routing": {
+                "destination_ward": "Wadgaon-Sheri-Kalyani nagar",
+                "optimized_route": [
+                    "Hinjewadi Phase 2",
+                    "Central Hub",
+                    "Wadgaon-Sheri-Kalyani nagar"
+                ],
+                "total_distance_km": 7
+            }
+        },
+        {
+            "status": "success",
+            "city": "Pune",
+            "timestamp": "2026-01-03T00:00:00",
+            "prediction": {
+                "zone": "Hinjewadi",
+                "ward": "Hinjewadi Phase 2",
+                "predicted_waste_tpd": 39.52
+            },
+            "allocation": {
+                "truck_capacity_tpd": 5,
+                "trucks_required": 8,
+                "optimized_allocation_tpd": 40,
+                "static_allocation_tpd": 15
+            },
+            "efficiency_metrics": {
+                "static_wastage_tpd": -24.52,
+                "optimized_wastage_tpd": 0.48,
+                "efficiency_improvement_percent": 0.0
+            },
+            "routing": {
+                "destination_ward": "Wadgaon-Sheri-Kalyani nagar",
+                "optimized_route": [
+                    "Hinjewadi Phase 2",
+                    "Central Hub",
+                    "Wadgaon-Sheri-Kalyani nagar"
+                ],
+                "total_distance_km": 7
+            }
+        },
+        {
+            "status": "success",
+            "city": "Pune",
+            "timestamp": "2026-01-01T00:00:00",
+            "prediction": {
+                "zone": "Kothrud-Bavdhan",
+                "ward": "Karve Nagar",
+                "predicted_waste_tpd": 35.86
+            },
+            "allocation": {
+                "truck_capacity_tpd": 5,
+                "trucks_required": 8,
+                "optimized_allocation_tpd": 40,
+                "static_allocation_tpd": 15
+            },
+            "efficiency_metrics": {
+                "static_wastage_tpd": -20.86,
+                "optimized_wastage_tpd": 4.14,
+                "efficiency_improvement_percent": 0.0
+            },
+            "routing": {
+                "destination_ward": "Wadgaon-Sheri-Kalyani nagar",
+                "optimized_route": [
+                    "Karve Nagar",
+                    "Central Hub",
+                    "Wadgaon-Sheri-Kalyani nagar"
+                ],
+                "total_distance_km": 7
+            }
+        },
+        {
+            "status": "success",
+            "city": "Pune",
+            "timestamp": "2026-01-03T00:00:00",
+            "prediction": {
+                "zone": "Kothrud-Bavdhan",
+                "ward": "Karve Nagar",
+                "predicted_waste_tpd": 36.16
+            },
+            "allocation": {
+                "truck_capacity_tpd": 5,
+                "trucks_required": 8,
+                "optimized_allocation_tpd": 40,
+                "static_allocation_tpd": 15
+            },
+            "efficiency_metrics": {
+                "static_wastage_tpd": -21.16,
+                "optimized_wastage_tpd": 3.84,
+                "efficiency_improvement_percent": 0.0
+            },
+            "routing": {
+                "destination_ward": "Wadgaon-Sheri-Kalyani nagar",
+                "optimized_route": [
+                    "Karve Nagar",
+                    "Central Hub",
+                    "Wadgaon-Sheri-Kalyani nagar"
+                ],
+                "total_distance_km": 7
+            }
+        },
+        {
+            "status": "success",
+            "city": "Pune",
+            "timestamp": "2026-01-01T00:00:00",
+            "prediction": {
+                "zone": "Nagar Road-Wadgaon Sheri",
+                "ward": "Kharadi",
+                "predicted_waste_tpd": 32.55
+            },
+            "allocation": {
+                "truck_capacity_tpd": 5,
+                "trucks_required": 7,
+                "optimized_allocation_tpd": 35,
+                "static_allocation_tpd": 15
+            },
+            "efficiency_metrics": {
+                "static_wastage_tpd": -17.55,
+                "optimized_wastage_tpd": 2.45,
+                "efficiency_improvement_percent": 0.0
+            },
+            "routing": {
+                "destination_ward": "Wadgaon-Sheri-Kalyani nagar",
+                "optimized_route": [
+                    "Kharadi",
+                    "Central Hub",
+                    "Wadgaon-Sheri-Kalyani nagar"
+                ],
+                "total_distance_km": 7
+            }
+        },
+        {
+            "status": "success",
+            "city": "Pune",
+            "timestamp": "2026-01-03T00:00:00",
+            "prediction": {
+                "zone": "Nagar Road-Wadgaon Sheri",
+                "ward": "Kharadi",
+                "predicted_waste_tpd": 32.27
+            },
+            "allocation": {
+                "truck_capacity_tpd": 5,
+                "trucks_required": 7,
+                "optimized_allocation_tpd": 35,
+                "static_allocation_tpd": 15
+            },
+            "efficiency_metrics": {
+                "static_wastage_tpd": -17.27,
+                "optimized_wastage_tpd": 2.73,
+                "efficiency_improvement_percent": 0.0
+            },
+            "routing": {
+                "destination_ward": "Wadgaon-Sheri-Kalyani nagar",
+                "optimized_route": [
+                    "Kharadi",
+                    "Central Hub",
+                    "Wadgaon-Sheri-Kalyani nagar"
+                ],
+                "total_distance_km": 7
+            }
+        },
+        {
+            "status": "success",
+            "city": "Pune",
+            "timestamp": "2026-01-01T00:00:00",
+            "prediction": {
+                "zone": "Kothrud-Bavdhan",
+                "ward": "Kothrud",
+                "predicted_waste_tpd": 24.4
+            },
+            "allocation": {
+                "truck_capacity_tpd": 5,
+                "trucks_required": 5,
+                "optimized_allocation_tpd": 25,
+                "static_allocation_tpd": 15
+            },
+            "efficiency_metrics": {
+                "static_wastage_tpd": -9.4,
+                "optimized_wastage_tpd": 0.6,
+                "efficiency_improvement_percent": 0.0
+            },
+            "routing": {
+                "destination_ward": "Wadgaon-Sheri-Kalyani nagar",
+                "optimized_route": [
+                    "Kothrud",
+                    "Central Hub",
+                    "Wadgaon-Sheri-Kalyani nagar"
+                ],
+                "total_distance_km": 7
+            }
+        },
+        {
+            "status": "success",
+            "city": "Pune",
+            "timestamp": "2026-01-03T00:00:00",
+            "prediction": {
+                "zone": "Kothrud-Bavdhan",
+                "ward": "Kothrud",
+                "predicted_waste_tpd": 24.53
+            },
+            "allocation": {
+                "truck_capacity_tpd": 5,
+                "trucks_required": 5,
+                "optimized_allocation_tpd": 25,
+                "static_allocation_tpd": 15
+            },
+            "efficiency_metrics": {
+                "static_wastage_tpd": -9.53,
+                "optimized_wastage_tpd": 0.47,
+                "efficiency_improvement_percent": 0.0
+            },
+            "routing": {
+                "destination_ward": "Wadgaon-Sheri-Kalyani nagar",
+                "optimized_route": [
+                    "Kothrud",
+                    "Central Hub",
+                    "Wadgaon-Sheri-Kalyani nagar"
+                ],
+                "total_distance_km": 7
+            }
+        },
+        {
+            "status": "success",
+            "city": "Pune",
+            "timestamp": "2026-01-01T00:00:00",
+            "prediction": {
+                "zone": "Hadapsar-Mundhwa",
+                "ward": "Magarpatta",
+                "predicted_waste_tpd": 27.48
+            },
+            "allocation": {
+                "truck_capacity_tpd": 5,
+                "trucks_required": 6,
+                "optimized_allocation_tpd": 30,
+                "static_allocation_tpd": 15
+            },
+            "efficiency_metrics": {
+                "static_wastage_tpd": -12.48,
+                "optimized_wastage_tpd": 2.52,
+                "efficiency_improvement_percent": 0.0
+            },
+            "routing": {
+                "destination_ward": "Wadgaon-Sheri-Kalyani nagar",
+                "optimized_route": [
+                    "Magarpatta",
+                    "Central Hub",
+                    "Wadgaon-Sheri-Kalyani nagar"
+                ],
+                "total_distance_km": 7
+            }
+        },
+        {
+            "status": "success",
+            "city": "Pune",
+            "timestamp": "2026-01-03T00:00:00",
+            "prediction": {
+                "zone": "Hadapsar-Mundhwa",
+                "ward": "Magarpatta",
+                "predicted_waste_tpd": 26.31
+            },
+            "allocation": {
+                "truck_capacity_tpd": 5,
+                "trucks_required": 6,
+                "optimized_allocation_tpd": 30,
+                "static_allocation_tpd": 15
+            },
+            "efficiency_metrics": {
+                "static_wastage_tpd": -11.31,
+                "optimized_wastage_tpd": 3.69,
+                "efficiency_improvement_percent": 0.0
+            },
+            "routing": {
+                "destination_ward": "Wadgaon-Sheri-Kalyani nagar",
+                "optimized_route": [
+                    "Magarpatta",
+                    "Central Hub",
+                    "Wadgaon-Sheri-Kalyani nagar"
+                ],
+                "total_distance_km": 7
+            }
+        },
+        {
+            "status": "success",
+            "city": "Pune",
+            "timestamp": "2026-01-01T00:00:00",
+            "prediction": {
+                "zone": "Shivajinagar",
+                "ward": "Model Colony",
+                "predicted_waste_tpd": 24.78
+            },
+            "allocation": {
+                "truck_capacity_tpd": 5,
+                "trucks_required": 5,
+                "optimized_allocation_tpd": 25,
+                "static_allocation_tpd": 15
+            },
+            "efficiency_metrics": {
+                "static_wastage_tpd": -9.78,
+                "optimized_wastage_tpd": 0.22,
+                "efficiency_improvement_percent": 0.0
+            },
+            "routing": {
+                "destination_ward": "Wadgaon-Sheri-Kalyani nagar",
+                "optimized_route": [
+                    "Model Colony",
+                    "Central Hub",
+                    "Wadgaon-Sheri-Kalyani nagar"
+                ],
+                "total_distance_km": 7
+            }
+        },
+        {
+            "status": "success",
+            "city": "Pune",
+            "timestamp": "2026-01-03T00:00:00",
+            "prediction": {
+                "zone": "Shivajinagar",
+                "ward": "Model Colony",
+                "predicted_waste_tpd": 25.27
+            },
+            "allocation": {
+                "truck_capacity_tpd": 5,
+                "trucks_required": 6,
+                "optimized_allocation_tpd": 30,
+                "static_allocation_tpd": 15
+            },
+            "efficiency_metrics": {
+                "static_wastage_tpd": -10.27,
+                "optimized_wastage_tpd": 4.73,
+                "efficiency_improvement_percent": 0.0
+            },
+            "routing": {
+                "destination_ward": "Wadgaon-Sheri-Kalyani nagar",
+                "optimized_route": [
+                    "Model Colony",
+                    "Central Hub",
+                    "Wadgaon-Sheri-Kalyani nagar"
+                ],
+                "total_distance_km": 7
+            }
+        },
+        {
+            "status": "success",
+            "city": "Pune",
+            "timestamp": "2026-01-01T00:00:00",
+            "prediction": {
+                "zone": "Hadapsar-Mundhwa",
+                "ward": "Mundhwa",
+                "predicted_waste_tpd": 23.0
+            },
+            "allocation": {
+                "truck_capacity_tpd": 5,
+                "trucks_required": 5,
+                "optimized_allocation_tpd": 25,
+                "static_allocation_tpd": 15
+            },
+            "efficiency_metrics": {
+                "static_wastage_tpd": -8.0,
+                "optimized_wastage_tpd": 2.0,
+                "efficiency_improvement_percent": 0.0
+            },
+            "routing": {
+                "destination_ward": "Wadgaon-Sheri-Kalyani nagar",
+                "optimized_route": [
+                    "Mundhwa",
+                    "Central Hub",
+                    "Wadgaon-Sheri-Kalyani nagar"
+                ],
+                "total_distance_km": 7
+            }
+        },
+        {
+            "status": "success",
+            "city": "Pune",
+            "timestamp": "2026-01-03T00:00:00",
+            "prediction": {
+                "zone": "Hadapsar-Mundhwa",
+                "ward": "Mundhwa",
+                "predicted_waste_tpd": 23.1
+            },
+            "allocation": {
+                "truck_capacity_tpd": 5,
+                "trucks_required": 5,
+                "optimized_allocation_tpd": 25,
+                "static_allocation_tpd": 15
+            },
+            "efficiency_metrics": {
+                "static_wastage_tpd": -8.1,
+                "optimized_wastage_tpd": 1.9,
+                "efficiency_improvement_percent": 0.0
+            },
+            "routing": {
+                "destination_ward": "Wadgaon-Sheri-Kalyani nagar",
+                "optimized_route": [
+                    "Mundhwa",
+                    "Central Hub",
+                    "Wadgaon-Sheri-Kalyani nagar"
+                ],
+                "total_distance_km": 7
+            }
+        },
+        {
+            "status": "success",
+            "city": "Pune",
+            "timestamp": "2026-01-01T00:00:00",
+            "prediction": {
+                "zone": "Shivajinagar",
+                "ward": "Shivajinagar",
+                "predicted_waste_tpd": 32.13
+            },
+            "allocation": {
+                "truck_capacity_tpd": 5,
+                "trucks_required": 7,
+                "optimized_allocation_tpd": 35,
+                "static_allocation_tpd": 15
+            },
+            "efficiency_metrics": {
+                "static_wastage_tpd": -17.13,
+                "optimized_wastage_tpd": 2.87,
+                "efficiency_improvement_percent": 0.0
+            },
+            "routing": {
+                "destination_ward": "Wadgaon-Sheri-Kalyani nagar",
+                "optimized_route": [
+                    "Shivajinagar",
+                    "Central Hub",
+                    "Wadgaon-Sheri-Kalyani nagar"
+                ],
+                "total_distance_km": 7
+            }
+        },
+        {
+            "status": "success",
+            "city": "Pune",
+            "timestamp": "2026-01-03T00:00:00",
+            "prediction": {
+                "zone": "Shivajinagar",
+                "ward": "Shivajinagar",
+                "predicted_waste_tpd": 31.91
+            },
+            "allocation": {
+                "truck_capacity_tpd": 5,
+                "trucks_required": 7,
+                "optimized_allocation_tpd": 35,
+                "static_allocation_tpd": 15
+            },
+            "efficiency_metrics": {
+                "static_wastage_tpd": -16.91,
+                "optimized_wastage_tpd": 3.09,
+                "efficiency_improvement_percent": 0.0
+            },
+            "routing": {
+                "destination_ward": "Wadgaon-Sheri-Kalyani nagar",
+                "optimized_route": [
+                    "Shivajinagar",
+                    "Central Hub",
+                    "Wadgaon-Sheri-Kalyani nagar"
+                ],
+                "total_distance_km": 7
+            }
+        },
+        {
+            "status": "success",
+            "city": "Pune",
+            "timestamp": "2026-01-01T00:00:00",
+            "prediction": {
+                "zone": "Nagar Road-Wadgaon Sheri",
+                "ward": "Viman Nagar",
+                "predicted_waste_tpd": 42.77
+            },
+            "allocation": {
+                "truck_capacity_tpd": 5,
+                "trucks_required": 9,
+                "optimized_allocation_tpd": 45,
+                "static_allocation_tpd": 15
+            },
+            "efficiency_metrics": {
+                "static_wastage_tpd": -27.77,
+                "optimized_wastage_tpd": 2.23,
+                "efficiency_improvement_percent": 0.0
+            },
+            "routing": {
+                "destination_ward": "Wadgaon-Sheri-Kalyani nagar",
+                "optimized_route": [
+                    "Viman Nagar",
+                    "Central Hub",
+                    "Wadgaon-Sheri-Kalyani nagar"
+                ],
+                "total_distance_km": 7
+            }
+        },
+        {
+            "status": "success",
+            "city": "Pune",
+            "timestamp": "2026-01-03T00:00:00",
+            "prediction": {
+                "zone": "Nagar Road-Wadgaon Sheri",
+                "ward": "Viman Nagar",
+                "predicted_waste_tpd": 43.38
+            },
+            "allocation": {
+                "truck_capacity_tpd": 5,
+                "trucks_required": 9,
+                "optimized_allocation_tpd": 45,
+                "static_allocation_tpd": 15
+            },
+            "efficiency_metrics": {
+                "static_wastage_tpd": -28.38,
+                "optimized_wastage_tpd": 1.62,
+                "efficiency_improvement_percent": 0.0
+            },
+            "routing": {
+                "destination_ward": "Wadgaon-Sheri-Kalyani nagar",
+                "optimized_route": [
+                    "Viman Nagar",
+                    "Central Hub",
+                    "Wadgaon-Sheri-Kalyani nagar"
+                ],
+                "total_distance_km": 7
+            }
+        },
+        {
+            "status": "success",
+            "city": "Pune",
+            "timestamp": "2026-01-01T00:00:00",
+            "prediction": {
+                "zone": "Nagar Road-Wadgaon Sheri",
+                "ward": "Wadgaon Sheri",
+                "predicted_waste_tpd": 35.4
+            },
+            "allocation": {
+                "truck_capacity_tpd": 5,
+                "trucks_required": 8,
+                "optimized_allocation_tpd": 40,
+                "static_allocation_tpd": 15
+            },
+            "efficiency_metrics": {
+                "static_wastage_tpd": -20.4,
+                "optimized_wastage_tpd": 4.6,
+                "efficiency_improvement_percent": 0.0
+            },
+            "routing": {
+                "destination_ward": "Wadgaon-Sheri-Kalyani nagar",
+                "optimized_route": [
+                    "Wadgaon Sheri",
+                    "Central Hub",
+                    "Wadgaon-Sheri-Kalyani nagar"
+                ],
+                "total_distance_km": 7
+            }
+        },
+        {
+            "status": "success",
+            "city": "Pune",
+            "timestamp": "2026-01-03T00:00:00",
+            "prediction": {
+                "zone": "Nagar Road-Wadgaon Sheri",
+                "ward": "Wadgaon Sheri",
+                "predicted_waste_tpd": 34.23
+            },
+            "allocation": {
+                "truck_capacity_tpd": 5,
+                "trucks_required": 7,
+                "optimized_allocation_tpd": 35,
+                "static_allocation_tpd": 15
+            },
+            "efficiency_metrics": {
+                "static_wastage_tpd": -19.23,
+                "optimized_wastage_tpd": 0.77,
+                "efficiency_improvement_percent": 0.0
+            },
+            "routing": {
+                "destination_ward": "Wadgaon-Sheri-Kalyani nagar",
+                "optimized_route": [
+                    "Wadgaon Sheri",
+                    "Central Hub",
+                    "Wadgaon-Sheri-Kalyani nagar"
+                ],
+                "total_distance_km": 7
+            }
+        },
+        {
+            "status": "success",
+            "city": "Pune",
+            "timestamp": "2026-01-01T00:00:00",
+            "prediction": {
+                "zone": "Hinjewadi",
+                "ward": "Wakad",
+                "predicted_waste_tpd": 19.05
+            },
+            "allocation": {
+                "truck_capacity_tpd": 5,
+                "trucks_required": 4,
+                "optimized_allocation_tpd": 20,
+                "static_allocation_tpd": 15
+            },
+            "efficiency_metrics": {
+                "static_wastage_tpd": -4.05,
+                "optimized_wastage_tpd": 0.95,
+                "efficiency_improvement_percent": 0.0
+            },
+            "routing": {
+                "destination_ward": "Wadgaon-Sheri-Kalyani nagar",
+                "optimized_route": [
+                    "Wakad",
+                    "Central Hub",
+                    "Wadgaon-Sheri-Kalyani nagar"
+                ],
+                "total_distance_km": 7
+            }
+        },
+        {
+            "status": "success",
+            "city": "Pune",
+            "timestamp": "2026-01-03T00:00:00",
+            "prediction": {
+                "zone": "Hinjewadi",
+                "ward": "Wakad",
+                "predicted_waste_tpd": 18.72
+            },
+            "allocation": {
+                "truck_capacity_tpd": 5,
+                "trucks_required": 4,
+                "optimized_allocation_tpd": 20,
+                "static_allocation_tpd": 15
+            },
+            "efficiency_metrics": {
+                "static_wastage_tpd": -3.72,
+                "optimized_wastage_tpd": 1.28,
+                "efficiency_improvement_percent": 0.0
+            },
+            "routing": {
+                "destination_ward": "Wadgaon-Sheri-Kalyani nagar",
+                "optimized_route": [
+                    "Wakad",
+                    "Central Hub",
+                    "Wadgaon-Sheri-Kalyani nagar"
+                ],
+                "total_distance_km": 7
+            }
+        }
+    ]
+}
